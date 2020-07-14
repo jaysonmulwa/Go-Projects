@@ -1,2 +1,2 @@
 # xml-parser
-A sitemap (xml) parser with concurrency.
+A sitemap (xml) parser with concurrency in Go.
