@@ -1,2 +1,2 @@
-# xml-parser
-A sitemap (xml) parser with concurrency in Go.
+# GO Lang Projects
+A collection of some of my interesting mini and mega projects in Go Lang
